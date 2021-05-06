@@ -8,4 +8,5 @@ The accuracy is weak, but it can give you some basic idea, how the NLP works. Th
 When loading the ipynb file, it might load some error. Try to be patient and reload it again.
 
 Basic idea: https://www.kaggle.com/gmayock/where-to-find-your-dream-vacation
+
 Data set: https://www.kaggle.com/datafiniti/hotel-reviews
